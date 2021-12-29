@@ -1,0 +1,3 @@
+stosujemy page object pattern
+tu trzymamy konkretne pliki per strona/ folery per strona, gdzie beda wszystkie nasze selektory
+nie będą za każdym razem wpisywane, gdy kiedykolwiek selektro się zmieni, musimy go zmienić tylko tu
